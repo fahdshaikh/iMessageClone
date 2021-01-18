@@ -1,4 +1,18 @@
-# https://imessageclone-563ca.web.app
+# [iMessage Clone](https://imessageclone-563ca.web.app)
+
+<h1 align="center">
+  <br>
+  <a href="https://imessageclone-563ca.web.app"><img src="https://github.com/fahdshaikh/iMessageClone/blob/main/public/iMessageLogo.png" height="180" alt="iMsg"> 
+  <h2>iMessage</h2></a>
+</h1>
+<h4 align="center">A instant messaging service  :iphone: :pager: :fax: :email: :mailbox_with_mail:</h4>
+
+iMessage is a desktop app :computer: which uses HTML, CSS, Material-UI, Javascript, React, Redux & Firebase.
+iMessage lets you create a room, and start messaging with any of your friends. Just signup :sunglasses: & have fun :wave: :speech_balloon: :point_right: [iMessage Clone](https://imessageclone-563ca.web.app) :fire:
+
+# Screenshots
+
+<img src="https://github.com/fahdshaikh/iMessageClone/blob/main/public/iMessageApp.png" alt="iMessageApp">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
